@@ -9,3 +9,7 @@ Include:
 - calcolo di potenza
 - calcolo della radice quadrata
 - calcolo esponenziale
+
+# Autore
+
+Giada Gemelli
